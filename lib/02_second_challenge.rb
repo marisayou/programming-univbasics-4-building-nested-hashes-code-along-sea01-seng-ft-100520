@@ -13,6 +13,4 @@ def second_challenge
       :heroine_Friends => []
     }
   }
-
-  
 end
